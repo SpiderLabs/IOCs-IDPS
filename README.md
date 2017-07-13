@@ -1,1 +1,1 @@
-# IOCs-IDPS
+These samples are available for download for research purposes only. By downloading the samples, you waive all rights to claim punitive, incidental and consequential damages resulting from mishandling or self-infection.
