@@ -1,6 +1,6 @@
 # Amadey Trojan
 
-# Protocol:
+# Protocols:
 HTTP
 DNS
 
