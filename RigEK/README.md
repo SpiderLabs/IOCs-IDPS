@@ -4,6 +4,7 @@
 https://app.any.run/tasks/93665ff6-d205-4d55-b635-2840efe01cbf/
 https://app.any.run/tasks/68285f54-7199-40a8-a841-6960b96f7f93/
 https://www.malware-traffic-analysis.net/2019/07/01/index.html
+https://www.malware-traffic-analysis.net/2019/08/02/index2.html
 
 # Protocols:
 HTTP
