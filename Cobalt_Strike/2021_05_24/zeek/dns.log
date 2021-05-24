@@ -1,0 +1,45 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dns
+#open	2021-05-24-13-06-46
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	rtt	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected
+#types	time	string	addr	port	addr	port	enum	count	interval	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool
+1621885055.570230	CoIr041DJyBDdeNkR8	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885055.573569	CoIr041DJyBDdeNkR8	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885055.575095	CoIr041DJyBDdeNkR8	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885055.570689	CeN2Ou4Ck2toKb1kKa	fe80::d42f:d70a:c8dd:71fa	49601	ff02::1:3	5355	udp	62349	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885085.867802	CwUo1f3FsU4TjS0tUj	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885085.871074	CwUo1f3FsU4TjS0tUj	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885085.872769	CwUo1f3FsU4TjS0tUj	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885085.868360	C8LxE01pZNeyQeLLnd	fe80::d42f:d70a:c8dd:71fa	51596	ff02::1:3	5355	udp	1970	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.650636	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.651287	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885102.656101	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.656695	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885102.776507	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.777097	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885102.778539	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.779088	CuO43fpvqjA6Y7bF2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885102.651688	CfpOms3siaKXJsuRw3	fe80::d42f:d70a:c8dd:71fa	57792	ff02::1:3	5355	udp	19026	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.651964	CKqNnf4nstOvSZM9fd	fe80::d42f:d70a:c8dd:71fa	56060	ff02::1:3	5355	udp	24595	-	brw606dc768803d	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885102.779458	CRqPNe4JtnRxVkjxf5	fe80::d42f:d70a:c8dd:71fa	52078	ff02::1:3	5355	udp	41966	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885102.779704	CBBIKs4x5mfxe4yTc2	fe80::d42f:d70a:c8dd:71fa	58941	ff02::1:3	5355	udp	64700	-	brw606dc768803d	1	C_INTERNET	28	AAAA	-	-	F	F	F	F	0	-	-	F
+1621885115.900141	C5wCNf4EGDRUhMbFKa	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885115.902712	C5wCNf4EGDRUhMbFKa	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885115.904125	C5wCNf4EGDRUhMbFKa	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885115.900535	CAJN602faB2EyXNL5	fe80::d42f:d70a:c8dd:71fa	64792	ff02::1:3	5355	udp	27238	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885146.211961	CB1dEl2nWikdPkG0m2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885146.215238	CB1dEl2nWikdPkG0m2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885146.216608	CB1dEl2nWikdPkG0m2	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885146.212478	Cev04M1RLpa7GbedN7	fe80::d42f:d70a:c8dd:71fa	51220	ff02::1:3	5355	udp	40091	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.235104	CNTcCd3qqZZdBHwLL4	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.238296	CNTcCd3qqZZdBHwLL4	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.364180	CNTcCd3qqZZdBHwLL4	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.365431	CNTcCd3qqZZdBHwLL4	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.235503	Ci0Nqw3NM9d1i8ziHk	fe80::d42f:d70a:c8dd:71fa	50846	ff02::1:3	5355	udp	36864	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885176.365835	C0oryW3A5D6UiER6Q1	fe80::d42f:d70a:c8dd:71fa	55612	ff02::1:3	5355	udp	5507	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885206.518123	Cm3PPm2svM7Xo8ksXd	fe80::d42f:d70a:c8dd:71fa	5353	ff02::fb	5353	udp	0	-	brw606dc768803d.local	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+1621885206.518519	CtyW6h2PQUwIAo9Ho3	fe80::d42f:d70a:c8dd:71fa	55256	ff02::1:3	5355	udp	48303	-	brw606dc768803d	1	C_INTERNET	1	A	-	-	F	F	F	F	0	-	-	F
+#close	2021-05-24-13-06-46
